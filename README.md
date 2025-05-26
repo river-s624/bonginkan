@@ -1,0 +1,2 @@
+# bonginkan
+AIの授業
